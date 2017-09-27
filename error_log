@@ -1,0 +1,4 @@
+[25-Jul-2017 00:39:48 America/Denver] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home4/sugandaa/public_html/krishanlankatours/email.php on line 17
+[25-Jul-2017 00:40:14 America/Denver] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home4/sugandaa/public_html/krishanlankatours/email.php on line 17
+[25-Jul-2017 00:40:26 America/Denver] PHP Notice:  Undefined index: switch in /home4/sugandaa/public_html/krishanlankatours/email.php on line 2
+[25-Jul-2017 21:20:32 America/Denver] PHP Notice:  Undefined index: comment in /home4/sugandaa/public_html/krishanlankatours/addComment.php on line 4
